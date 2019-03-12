@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "jhipsterTemplate",
+    "packageName": "com.gaurav.template",
+    "packageFolder": "com/gaurav/template",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "consul",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "OTgzNjY5NDA0NzE4YmM2ZmU3ZjYwNmRkN2U1OGRiNzBhM2VmMDk4OGFjZDJkOWM5ZGUxYTk1NGUwNzIzY2E0MzY2ZjU2MzBlYzAzZDY2MGVjMzBmMmI3NjQ3ZjFkOTM2MjFjMWJlY2VlZDFiMTNmMDM1N2ZkMWE0Mzc1YmJhMWY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "g4ur4vs",
+  "repository-name": "jhipster-template"
+}
